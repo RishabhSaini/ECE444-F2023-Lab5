@@ -17,3 +17,8 @@ As a software project grows, so does the number of tests in the test suite. Main
 
 Legacy Code Integration:
 TDD is most effective when applied from the inception of a project. It's designed to guide the development process and produce clean, testable code. However, implementing TDD in an existing legacy codebase can be challenging. Legacy code is often complex, tightly coupled, and lacks the necessary structure for easy testing.
+
+## Test Case Contribution
+
+Contributed function test_add_user:
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group21-world/blob/bd42c6b2a22706e39bf9be5650113a3109ac41e2/tests/app_test.py#L24
